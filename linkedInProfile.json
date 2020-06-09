@@ -1,0 +1,65 @@
+{
+    "fullName": "Bjarne Johnson",
+    "headline": "Incoming Intern at Cisco",
+    "currentCompany": "Cisco",
+    "currentSchool": "Harvard University",
+    "profilePicUrl": "https://www.nhm.ac.uk/content/dam/nhmwww/discover/modern-humans-europe/modern-humans-europe-full-width.jpg.thumb.1920.1920.png",
+    "location": "London, United Kingdom",
+    "positions": [
+        {
+            "title": "Incoming Intern",
+            "companyName": "Cisco",
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C560BAQF8rE3JvZVsSQ/company-logo_100_100/0?e=1599696000&v=beta&t=TyNH2XzqHecYtxV-pD1eSFD7TATjwQezfb-_J5Izlxo",
+            "url": "https://www.linkedin.com/company/facebook/",
+            "dateRange": "Dec 2019 – Present",
+            "location": "London, United Kingdom"
+        },
+        {
+            "title": "Summer Analyst",
+            "companyName": "Goldman Sachs",
+            "companyLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQE0nZ2BzWyZuw/company-logo_100_100/0?e=1599696000&v=beta&t=iqQejvn_a9TPmzGffhJc4JEh0yvgCOt58Cw-3HT4eZw",
+            "url": "https://www.linkedin.com/company/goldman-sachs/",
+            "dateRange": "Jun 2019 – Aug 2019",
+            "location": "London, United Kingdom"
+        }
+    ],
+    "educations": [
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Arts",
+            "schoolName": "Harvard University",
+            "schoolLogo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEGh_DklOKK1Q/company-logo_100_100/0?e=1599696000&v=beta&t=qMfTYTIc9bi7ZMGFZi07hTGiePFBxQsWPZhuU-JhJFk",
+            "yearFrom": "2013",
+            "yearTo": "2017"
+        }
+    ],
+    "skills": [
+        "Leadership",
+        "Public Speaking",
+        "Management"
+    ],
+    "projects": [
+        {
+            "title": "abdeefdfasfd",
+            "dateRange": "Apr 2020 – Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        },
+        {
+            "title": "abdeefdfasfd",
+            "dateRange": "Apr 2020 – Present",
+            "description": [
+                "testtesttesttest."
+            ],
+            "url": "https://google.com"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "’s Profile",
+            "url": "linkedin.com/in/me"
+        }
+    ]
+}
